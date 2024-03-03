@@ -1,0 +1,28 @@
+.addtd {
+    width: 150px;
+    
+    
+}
+
+.addtdi {
+    width: 140px;
+    ;
+
+}
+.submit {
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    color: wheat;
+    margin-top: 26px;
+    margin-left:300px ;
+    cursor: pointer;
+}
+.addtdi1 {
+   border: 2px solid black;
+   margin-left: 475px;
+   margin-bottom: 10px;
+   height: 40px;
+   border-radius: 5px;
+}
